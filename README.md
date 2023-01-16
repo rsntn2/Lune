@@ -1,16 +1,24 @@
 ## Olá pessoal 👋
 
-**** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
+- 🌱 Atualmente estou aprendendo : <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- 👯 Estou procurando colaborar em : Jogos
+- 💬 Pergunte-me sobre : Duvidas sobre VisualG
+- 📫 Como entrar em contato comigo: rsntn2@gmail.com
 
-Aqui estão algumas idéias para você começar:
+##
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-- 🌱 Atualmente estou aprendendo ...
-- 👯 Estou procurando colaborar em ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
-
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+  </div>
+  
+  ##
+  
+  
+ <div>
+  <a href = "mailto:rsntn2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
+ 
